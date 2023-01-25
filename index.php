@@ -1,8 +1,5 @@
 <!-- 
 
-Website Designed by CounterMind on Marketing-Rhino.com
-https://www.marketing-rhino.com/
-It is forbidden to re-sell this landing page without Author Permission.
 
  -->
 <!DOCTYPE html>
